@@ -1,9 +1,14 @@
 # Portifólio
-Modelo de site de Portfólio Responsivo para programadores.
+Modelo de site de Portfólio Responsivo.
 
 # Conteúdo do Portifólio
-Neste portifólio é apresentado informações sobre:
-- Dados Pessoais
-- Capacidades Técnicas do seu portador
-- Informações sobre projetos
-- Informações de Contato
+Neste modelo de portifólio é apresentado:
+- Uma breve apresentação de quem é a pessoa
+- Dados pessoais sobre a pessoa a qual pertence
+- Projetos com as tecnologias as quais foram produzidas
+- Informações sobre contatos e redes sociais
+
+# Tecnologias neste projeto
+- HTML
+- CSS
+- Bootstrap
