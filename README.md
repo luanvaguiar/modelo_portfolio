@@ -18,3 +18,6 @@ Neste modelo de portifólio é apresentado:
 
 # Autor
 - Luan Vinícios de Aguiar
+
+# Atualização
+- Atualizado em jun. de 2020.
