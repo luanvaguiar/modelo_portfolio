@@ -11,7 +11,7 @@ Neste modelo de portifólio é apresentado:
 - Projetos com as tecnologias as quais foram produzidas
 - Informações sobre contatos e redes sociais
 
-# Tecnologias neste projeto
+# Tecnologias utilizadas neste projeto
 - HTML
 - CSS
 - Bootstrap
