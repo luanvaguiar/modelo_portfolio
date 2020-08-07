@@ -11,7 +11,7 @@ Neste modelo de portifólio é apresentado:
 - Projetos com as tecnologias as quais foram produzidas
 - Informações sobre contatos e redes sociais
 
-# FrameWorks / Ferramentas / Linguagens
+# Frameworks / Ferramentas / Linguagens
 - HTML
 - CSS
 - Bootstrap
