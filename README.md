@@ -20,4 +20,4 @@ Neste modelo de portifólio é apresentado:
 - Luan Vinícios de Aguiar
 
 # Atualização
-Atualizado em jun. de 2020.
+Atualizado em 07 ago. de 2020.
