@@ -1,4 +1,4 @@
-# Projeto Modelo de site de Portifólio
+# Projeto - Modelo de site de Portifólio
 Modelo de site de Portfólio Responsivo.
 
 # Objetivo Geral
@@ -11,7 +11,7 @@ Neste modelo de portifólio é apresentado:
 - Projetos com as tecnologias as quais foram produzidas
 - Informações sobre contatos e redes sociais
 
-# Tecnologias utilizadas neste projeto
+# FrameWorks / Ferramentas / Linguagens
 - HTML
 - CSS
 - Bootstrap
@@ -20,4 +20,4 @@ Neste modelo de portifólio é apresentado:
 - Luan Vinícios de Aguiar
 
 # Atualização
-- Atualizado em jun. de 2020.
+Atualizado em jun. de 2020.
